@@ -1,2 +1,2 @@
-# restart-manager-update-server
+# update-server
 Restart Manager update server
